@@ -1,0 +1,18 @@
+"""#Weather App
+    A simple Python-based weather application that provides current weather information for a specified city. The app utilizes the OpenWeatherMap API for real-time weather data, the Geopy library to get geographical coordinates, and TimezoneFinder to get the current time of the selected city. The app is built using Tkinter for the GUI.
+
+#Features
+    ->Get real-time weather information (temperature, wind speed, humidity, pressure).
+    ->Display current weather conditions and description.
+    Shows the current time in the city based on its timezone.
+    -> User-friendly interface with a search feature for easy access to weather data.
+
+#Tech Stack
+    =>Programming Language: Python
+    Libraries/Modules:
+    ->Tkinter (for GUI)
+    ->Geopy (to get location details)
+    ->TimezoneFinder (to find timezone based on coordinates)
+    ->Requests (for API calls to fetch weather data)
+    ->Pytz (for timezone support)
+    ->OpenWeatherMap API (to get weather data)"""
